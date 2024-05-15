@@ -49,7 +49,7 @@ En la notebook [02_respuestas_negocio_sql](https://github.com/fguzman282/challen
 
 Adicional a ello, en la notebook [01_genera_bases_ejercicio_sql](https://github.com/fguzman282/challenge_meli/blob/master/01_genera_bases_ejercicio_sql.ipynb) se genera el universo para dar respuestas a las preguntas de negocio. **Es un valor agregado de mi parte** consiste en un programa que genera datos ficticios cada vez que corra genera clientes ficticios aleatorio.
 
-# **Parte SQL**
+# **Python y APIs**
 
 ## **Objetivos:**
 
